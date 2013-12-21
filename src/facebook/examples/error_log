@@ -1,0 +1,2 @@
+[18-Dec-2013 20:09:20] PHP Fatal error:  Uncaught OAuthException: This IP can't make requests for that application.
+  thrown in /home2/buddy365/public_html/facebook/src/base_facebook.php on line 1332
